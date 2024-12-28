@@ -1,1 +1,1 @@
-# python-training
+I have studied Python as part of the Google Cybersecurity course. It took me 7 days to complete, during which I covered the basics of Python, automation, and learned how to debug Python code effectively.
